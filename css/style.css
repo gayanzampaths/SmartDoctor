@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 24, 2017, 11:50:20 AM
+    Author     : gayan
+*/
+
+body {
+  /*padding-top: 50px;*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("../images/background.png");
+}
+
+a {
+  color: #00B7FF;
+}
